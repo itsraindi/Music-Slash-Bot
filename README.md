@@ -70,7 +70,7 @@
 Released under the [MIT License](https://github.com/HELLSNAKES/Music-Slash-Bot/blob/main/LICENSE)
 
 ## Deploy Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HELLSNAKES/Music-Slash-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/itsraindi/Music-Slash-Bot)
 
 Note: Heroku Button is currently not working -> [Issues](https://github.com/HELLSNAKES/Music-Slash-Bot/issues/6)
 
